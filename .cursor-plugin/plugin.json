@@ -1,0 +1,14 @@
+{
+  "name": "shipnote",
+  "version": "1.0.0",
+  "description": "Turn a registry or guest list into printed, stamped thank-you postcards. Browse designs, get a price, and save a draft to review and pay on shipnote.co.",
+  "author": {
+    "name": "ShipNote",
+    "email": "hello@shipnote.co"
+  },
+  "homepage": "https://www.shipnote.co",
+  "repository": "https://github.com/tgoc99/shipnote-mcp",
+  "keywords": ["postcards", "thank-you-cards", "wedding", "baby-shower", "registry", "direct-mail"],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}

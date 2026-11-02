@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "shipnote": {
+      "url": "https://www.shipnote.co/api/mcp/claude"
+    }
+  }
+}
